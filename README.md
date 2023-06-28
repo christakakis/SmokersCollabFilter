@@ -26,3 +26,7 @@
 ## **Additional Details** 📌
 
 #### The system leverages item-item collaborative filtering techniques to identify similarities between users based on their smoking history, ratings and preferences. By analyzing past smoking behaviors and user responses from questionnaires, the system generates recommendations for alternative smoking products. This project aims to offer insights into smoking patterns and assist users in making informed decisions towards new rated smoking products.
+
+### **NOTE** 🚭
+
+##### **Please do not embrace smoking, it is harmful to your health.** This project focuses on analyzing smoking habits and providing recommendations, but it is important to note that the intention is not to promote smoking or encourage its use. Smoking poses significant health risks and can have detrimental effects on individuals and society. The aim of this project is to provide insights and support to individuals who may be seeking information related to smoking habits or alternatives. Prioritize your health and make informed decisions.
