@@ -1,4 +1,5 @@
-# SmokersCollabFilter 🚬: Smoking Recommendations with Item-Item CF.  [still-in-progress💻]
+# SmokersCollabFilter 🚬: Smoking Recommendations with Item-Item CF.
+#[still-in-progress💻]
 
 ## **About** ℹ️
 
