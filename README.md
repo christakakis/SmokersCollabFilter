@@ -21,7 +21,7 @@
 #### While we still ran the family business the collection of the necessary data was done with a simple questionnaire like the one below:
 ![](https://raw.githubusercontent.com/christakakis/SmokersCollabFilter/main/docs/questionnaire.png = 250x250)
 
-<img src="https://raw.githubusercontent.com/christakakis/SmokersCollabFilter/main/docs/questionnaire.png" data-canonical-src="https://raw.githubusercontent.com/christakakis/SmokersCollabFilter/main/docs/questionnaire.png" width="900" height="500" />
+<img src="https://raw.githubusercontent.com/christakakis/SmokersCollabFilter/main/docs/questionnaire.png" data-canonical-src="https://raw.githubusercontent.com/christakakis/SmokersCollabFilter/main/docs/questionnaire.png" width="631" height="445" />
 
 #### Currently, I am implementing the Recommendation System I am trying to enrich the pre-existing data by using a questionnaire via Google Forms which is available [here](https://forms.gle/mxZ2vkbJ2C2VeuHB8).
 
