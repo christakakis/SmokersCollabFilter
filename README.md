@@ -1,5 +1,4 @@
-# SmokersCollabFilter
-Personalized smoking recommendations based on Collaborative Filtering.
+# SmokersCollabFilter: Personalized smoking recommendations based on Collaborative Filtering.
 
 ## **About**
 
