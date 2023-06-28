@@ -24,6 +24,8 @@
 #### While we still ran the family business the collection of the necessary data was done with a simple questionnaire (in Greek) like the one below:
 <img src="https://raw.githubusercontent.com/christakakis/SmokersCollabFilter/main/docs/questionnaire.png" data-canonical-src="https://raw.githubusercontent.com/christakakis/SmokersCollabFilter/main/docs/questionnaire.png" width="975" height="667" />
 
+![](https://raw.githubusercontent.com/christakakis/SmokersCollabFilter/main/docs/questionnaire.png)
+
 ## **Additional Details** 📌
 
 #### The system leverages item-item collaborative filtering techniques to identify similarities between users based on their smoking history, ratings and preferences. By analyzing past smoking behaviors and user responses from questionnaires, the system generates recommendations for alternative smoking products. This project aims to offer insights into smoking patterns and assist users in making informed decisions towards new rated smoking products.
