@@ -1,4 +1,4 @@
-# SmokersCollabFilter: Smoking Recommendations with Item-Item Collaborative Filtering.
+# SmokersCollabFilter: Smoking Recommendations with Item-Item CF.
 
 ## **About**
 
