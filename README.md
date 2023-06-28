@@ -21,7 +21,7 @@
 ### Currently, I am implementing the Recommendation System I am trying to enrich the pre-existing data by using a questionnaire via Google Forms which is available [here](https://forms.gle/mxZ2vkbJ2C2VeuHB8).
 
 #### While we still ran the family business the collection of the necessary data was done with a simple questionnaire (in Greek) like the one below:
-<img src="https://raw.githubusercontent.com/christakakis/SmokersCollabFilter/main/docs/questionnaire.png" data-canonical-src="https://raw.githubusercontent.com/christakakis/SmokersCollabFilter/main/docs/questionnaire.png" width="1000" height="667" />
+<img src="https://raw.githubusercontent.com/christakakis/SmokersCollabFilter/main/docs/questionnaire.png" data-canonical-src="https://raw.githubusercontent.com/christakakis/SmokersCollabFilter/main/docs/questionnaire.png" width="975" height="667" />
 
 ## **Additional Details** 📌
 
