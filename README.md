@@ -28,6 +28,59 @@
 
 #### The system leverages item-item collaborative filtering techniques to identify similarities between users based on their smoking history, ratings and preferences. By analyzing past smoking behaviors and user responses from questionnaires, the system generates recommendations for alternative smoking products. This project aims to offer insights into smoking patterns and assist users in making informed decisions towards new rated smoking products.
 
+### The final format of the table created from the answers of the questionnaires should look like this: 
+
+<table>
+  <caption align="center"><b>Item-Item CF Ratings Table</b></caption>
+  <thead>
+    <tr>
+      <th align="center"><b> </b></th>
+      <th align="center"><b>User_1</b></th>
+      <th align="center"><b>User_2</b></th>
+      <th align="center"><b>User..</b></th>
+	    <th align="center"><b>User_N</b></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+       <td align="center"><b>Tobacco Brand_1</b></td>
+       <td align="center"">4</td>
+       <td align="center"><b> </b></td>
+       <td align="center"">...</td>
+	     <td align="center""><b> </b></td>
+    </tr>
+    <tr>
+       <td align="center""><b>Tobacco Brand_2</b></td>
+       <td align="center""><b> </b></td>
+       <td align="center"">1</td>
+       <td align="center"">...</td>
+	     <td align="center""><b> </b></td>
+    </tr>
+    <tr>
+       <td align="center""><b>Tobacco Brand_3</b></td>
+       <td align="center"">3</td>
+       <td align="center"">5</td>
+       <td align="center"">...</td>
+       <td align="center"">4</td>
+    </tr>
+    <tr>
+       <td align="center""><b>Tobacco Brand ..</b></td>
+       <td align="center"">...</td>
+       <td align="center"">...</td>
+       <td align="center"">...</td>
+       <td align="center"">...</td>
+    </tr>
+    <tr>
+       <td align="center""><b>Tobacco Brand_M</b></td>
+       <td align="center"">2</td>
+       <td align="center""><b> </b></td>
+       <td align="center"">...</td>
+       <td align="center"">2</td>
+    </tr>
+  </tbody>
+</table>
+
 ### **NOTE** 🚭
 
 ##### **Please do not embrace smoking, it is harmful to your health.** This project focuses on analyzing smoking habits and providing recommendations, but it is important to note that the intention is not to promote smoking or encourage its use. Smoking poses significant health risks and can have detrimental effects on individuals and society. The aim of this project is to provide insights and support to individuals who may be seeking information related to smoking habits or alternatives. Prioritize your health and make informed decisions.
