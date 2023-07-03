@@ -1,11 +1,11 @@
 # SmokersCollabFilter 🚬: Smoking Recommendations with Item-Item CF.
-# [still-in-progress💻]
+# [still-in-progress💻🟢]
 
 ## **About** ℹ️
 
 #### This repository contains a personal project of a collaborative filtering-based recommendation system focused on analyzing smoking habits and providing personalized recommendations.
 
-## **What is a Collaborative filtering (CF) Recommendation System** ❔
+## **What is a Collaborative filtering (CF) Recommendation System** ❓
 
 #### A Recommendation System is an algorithm that uses large amounts of data to suggest additional products to consumers, providing recommendations that are relevant to other users similar to them. The final results can be based on various criteria, such as previous purchases by other consumers, demographic information, etc.
 
