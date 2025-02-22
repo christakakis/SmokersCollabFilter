@@ -1,5 +1,5 @@
 # SmokersCollabFilter 🚬: Smoking Recommendations with Item-Item CF.
-# [Constantly Updating Questionnaire Answers - Run Your Own Inference Through The .ipynb File💻🟢]
+# [Run Your Own Inference Through The .ipynb File - Constantly Updating Questionnaire Answers 💻🟢]
 
 ## **About** ℹ️
 
