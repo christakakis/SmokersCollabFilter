@@ -337,7 +337,7 @@ def predict_new_user_rating(brand_idx, new_user_ratings):
 brand_dropdown = widgets.Dropdown(
     options=all_brands,
     description='Brand:',
-    layout=widgets.Layout(width='280px', margin='0 10px 0 0')
+    layout=widgets.Layout(width='280px', margin='0 5px 0 0')
 )
 brand_dropdown.style.description_width = '60px'
 
